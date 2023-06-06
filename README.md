@@ -10,6 +10,7 @@
 
 # 💻 Tech Stack:
 <p align="left">
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="45" height="45">
