@@ -26,7 +26,7 @@
 
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jamshid-net/jamshid-net/blob/main/github-user-contribution.svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jamshid-net&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
