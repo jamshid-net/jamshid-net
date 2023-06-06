@@ -15,6 +15,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jamshid-net&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamshid-net&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jamshid-net&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
