@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=<h1>Hello world!</h1>&height=100&section=header"/>
 </p>
 <h1> About Me 👨‍💻</h1>
 👋 Hello there! I'm Jamshid, an aspiring .NET engineer on a mission to master the art of software development. 🌱
