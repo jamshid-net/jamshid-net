@@ -8,7 +8,7 @@
 
 📚 Currently, I'm focused on expanding my understanding of the C# programming language, the .NET framework, and related technologies like ASP.NET, Entity Framework, and PostgreSQL. I thrive on tackling coding challenges, experimenting with new concepts, and discovering innovative solutions to problems.
 
-[![](https://visitcount.itsvg.in/api?id=jamshid-net&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jamshid-net)](https://visitcount.itsvg.in)
 # 💻 Tech Stack:
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="45" height="45">
