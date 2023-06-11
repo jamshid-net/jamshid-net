@@ -6,7 +6,7 @@
 
 💻 I'm diving headfirst into the world of .NET programming, eagerly soaking up knowledge and honing my skills. I'm passionate about crafting robust and scalable applications using the incredible capabilities of .NET.
 
-📚 Currently, I'm focused on expanding my understanding of the C# programming language, the .NET framework, and related technologies like ASP.NET, Entity Framework, and PostgreSQL. I thrive on tackling coding challenges, experimenting with new concepts, and discovering innovative solutions to problems.
+📚 Currently, I'm focused on expanding my understanding of the C# programming language, the .NET framework, and related technologies like ASP.NET,ASP.NET MVC, Entity Framework, Blazor. I thrive on tackling coding challenges, experimenting with new concepts, and discovering innovative solutions to problems.
 
 [![](https://visitcount.itsvg.in/api?id=jamshid-net)](https://visitcount.itsvg.in)
 # 💻 Tech Stack:
