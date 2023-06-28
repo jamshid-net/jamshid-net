@@ -9,6 +9,11 @@
 📚 Currently, I'm focused on expanding my understanding of the C# programming language, the .NET, and related technologies like ASP.NET, Entity Framework, Blazor. I thrive on tackling coding challenges, experimenting with new concepts, and discovering innovative solutions to problems.
 
 [![](https://visitcount.itsvg.in/api?id=jamshid-net)](https://visitcount.itsvg.in)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamshid-net/jamshid-net/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamshid-net/jamshid-net/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jamshid-net/jamshid-net/output/github-contribution-grid-snake.svg">
+</picture>
 # 💻 Tech Stack:
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="45" height="45">
