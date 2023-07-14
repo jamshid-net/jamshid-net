@@ -18,6 +18,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" alt="SQLite" width="45" height="45">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="45" height="45">
 <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/rabbitmq.svg" alt="RabbitMQ" width="45 height="45">
 <img src="https://cdn.worldvectorlogo.com/logos/blazor.svg" alt="Blazor" width="45" height="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45">
