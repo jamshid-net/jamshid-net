@@ -15,8 +15,8 @@
 
   <br>
   <br>
- ![snake animation](https://github.com/jamshid-net/jamshid-net/blob/output/github-contribution-grid-snake2.svg)
-  <img align="center" width="100%" src="![snake animation](https://github.com/jamshid-net/jamshid-net/blob/output/github-contribution-grid-snake2.svg)">
+
+  <img align="center" width="100%" src="https://github.com/jamshid-net/jamshid-net/blob/output/github-contribution-grid-snake-dark.svg">
   <br>
   <br> 
 <div align="center">  
