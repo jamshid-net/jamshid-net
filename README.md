@@ -15,20 +15,6 @@
   </h4>
 
 <br>
-<h2>${\color{#9266ff} \sf{Frontend:}}$</h2>
-<p align="left">
-<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/vscode-original.svg" alt="vs" width="40" height="40"> 
-<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/typescript-original.svg" alt="vs" width="40" height="40">
-<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/javascript-original.svg" alt="vs" width="40" height="40">
-<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/angular.svg" alt="vs" width="40" height="40">
-<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/primeng.svg" alt="vs" width="40" height="40">
-<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/material-logo.svg" alt="vs" width="40" height="40">
-<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/rxjs.svg" alt="vs" width="40" height="40">
-<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/html5-original.svg" alt="vs" width="40" height="40">
-<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/tailwindcss-plain.svg" alt="vs" width="40" height="40">
-<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/css3-plain.svg" alt="vs" width="40" height="40">
-<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/sass-original.svg" alt="vs" width="40" height="40">
-</p>
 <h2>${\color{#9266ff} \sf{Backend:}}$</h2> 
 <p align="left">
   <img src="https://github.com/jamshid-net/jamshid-net/blob/main/Backend%20Icons/visualstudio-plain.svg" width="40" height="40"> 
@@ -42,6 +28,20 @@
   <img src="https://github.com/jamshid-net/jamshid-net/blob/main/Backend%20Icons/grpc.svg" width="40" height="40"> 
   <img src="https://github.com/jamshid-net/jamshid-net/blob/main/Backend%20Icons/graphql-plain.svg" width="40" height="40"> 
   <img src="https://github.com/jamshid-net/jamshid-net/blob/main/Backend%20Icons/rabbitmq.svg" width="40" height="40"> 
+</p>
+<h2>${\color{#9266ff} \sf{Frontend:}}$</h2>
+<p align="left">
+<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/vscode-original.svg" alt="vs" width="40" height="40"> 
+<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/typescript-original.svg" alt="vs" width="40" height="40">
+<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/javascript-original.svg" alt="vs" width="40" height="40">
+<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/angular.svg" alt="vs" width="40" height="40">
+<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/primeng.svg" alt="vs" width="40" height="40">
+<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/material-logo.svg" alt="vs" width="40" height="40">
+<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/rxjs.svg" alt="vs" width="40" height="40">
+<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/html5-original.svg" alt="vs" width="40" height="40">
+<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/tailwindcss-plain.svg" alt="vs" width="40" height="40">
+<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/css3-plain.svg" alt="vs" width="40" height="40">
+<img src="https://github.com/jamshid-net/jamshid-net/blob/main/Frontend%20Icons/sass-original.svg" alt="vs" width="40" height="40">
 </p>
   <br>
   <br>
