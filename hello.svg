@@ -6,7 +6,7 @@
           display: flex;
           width: 100%;
           height: 7000px;
-          background-color: rgba(0,0,0,1);
+          background-color: rgba(1,1,1,1);
           color: #111;
 		cursor: pointer;
         }
