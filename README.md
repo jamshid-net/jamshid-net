@@ -1,6 +1,6 @@
 <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:9266ff,50:2c0099,100:11003b&descAlign=50&descAlignY=50&fontAlign=50&fontAlignY=19&textBg=false&section=header"/>
 
-<!--<img align="center" width="100%" src="https://github.com/jamshid-net/jamshid-net/blob/main/hello.svg">-->
+<img align="center" width="100%" src="https://github.com/jamshid-net/jamshid-net/blob/main/hello.svg">
 <h1 align="center">
   <img align="right" alt="" width="400" src="https://media.tenor.com/jg0XQBA-En4AAAAC/mw2-ghost.gif">
 </h1>
