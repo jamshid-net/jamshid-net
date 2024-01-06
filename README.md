@@ -8,7 +8,6 @@
    ${\color{#9266ff} \sf{About} \space \sf{me}}$ 👨‍💻<br>
     Full-stack .NET & Angular developer 🚀 <br> 
     Currently coding and crafting solutions <br> 
-    Enthusiast in music 🎶, gaming 🎮, and movies 🎬 <br> 
     Passionate about continuous learning 📚 <br> 
     Eager to explore new programming technologies 🔍
   </h4>
