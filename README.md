@@ -48,13 +48,13 @@
   <img align="center" width="100%" src="https://github.com/jamshid-net/jamshid-net/blob/output/github-contribution-grid-snake-dark.svg">
   <br>
   <br> 
-<!--<div align="center">  
+<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jamshid-net&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamshid-net&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>-->
-<div align="center">  
+</div>
+<!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jamshid-net&show_icons=true&count_private=true&hide_border=true&title_color=9266ff&icon_color=9266ff&text_color=9266ff&bg_color=000" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamshid-net&layout=compact&hide_border=true&title_color=9266ff&text_color=9266ff&bg_color=000" />
-</div>
+</div> -->
 <!-- <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,50:1a1919,100:242323&descAlign=50&descAlignY=50&fontAlign=50&fontAlignY=19&textBg=false&section=footer"/> -->
 <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000&descAlign=50&descAlignY=50&fontAlign=50&fontAlignY=19&textBg=false&section=footer"/>
